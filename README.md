@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vimarsh-98
 - 👀 I’m interested in basketball, outdoor activities, and CODING!
 - 🌱 I’m currently learning software design and python. I have a good understanding of JAVA and JavaScript.
-- 💞️ I’m looking to collaborate on any new dieas which can help innovate the tech industry.
+- 💞️ I’m looking to collaborate on any new ideas which can help innovate the tech industry.
 - 📫 How to reach me: vimpatel15@gmail.com
 
 <!---
